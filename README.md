@@ -12,6 +12,8 @@ TypeScript 기반 로그인 UI 구현 프로젝트.
 [📂 코드 보기 - pages](./neunexus_login_pages)  
 [📂 코드 보기 - stories](./neunexus_login_stories)
 
+![neunexus_login 화면](./images/neunexus_login.png)
+
 ### 💻 기여 코드 예시
 ```bash
 # 개발 서버 실행
@@ -39,6 +41,8 @@ TypeScript 기반 클라이언트 애플리케이션.
 [📂 코드 보기 - pages](./neunexus_client_pages)  
 [📂 코드 보기 - stories](./neunexus_client_stories)
 
+![neunexus_client 화면](./images/neunexus_client.png)
+
 ### 💻 기여 코드 예시
 ```typescript
 // LoginButton.tsx
@@ -61,6 +65,8 @@ Python 기반 Sabangnet API 연동 모듈.
 [📂 코드 보기 - models](./sabangnet_api_models)  
 [📂 코드 보기 - repository](./sabangnet_api_repository)  
 [📂 코드 보기 - utils](./sabangnet_api_utils)
+
+![sabangnet_API 화면](./images/sabangnet_main.png)
 
 ### 💻 기여 코드 예시
 ```python

@@ -41,3 +41,18 @@ npm run build
 # Storybook 실행
 npm run storybook
 
+
+// LoginButton.tsx
+import React from "react";
+
+export const LoginButton = () => {
+  return <button>로그인</button>;
+};
+
+# 상품 데이터 조회 예시
+import requests
+
+response = requests.get("https://api.sabangnet.co.kr/products")
+print(response.json())
+
+

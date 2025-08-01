@@ -21,3 +21,23 @@ TypeScript 기반 클라이언트 애플리케이션.
 
 - **주요 기능**: 메인 UI 페이지 구현, API 데이터 표시
 - **내 역할**: 페이지 구조 설계, UI 최적화
+
+
+---
+
+## 💻 기여 코드 예시
+
+### 📌 neunexus_login
+```bash
+# 개발 서버 실행
+npm run dev
+
+# ESLint 검사
+npm run lint
+
+# 프로덕션 빌드 (TypeScript 컴파일 + Vite 빌드)
+npm run build
+
+# Storybook 실행
+npm run storybook
+

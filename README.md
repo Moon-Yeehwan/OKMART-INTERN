@@ -1,33 +1,15 @@
 # 💼 Internship Projects
 
-## [neunexus_login](https://github.com/GopediaPro/neunexus_login)
+---
+
+## neunexus_login
 TypeScript 기반 로그인 UI 구현 프로젝트.
 
 - **주요 기능**: 로그인 페이지 UI 설계, API 연동, 인증 로직 처리
-- **내 역할**: UI 컴포넌트 개발, 상태관리, 코드 리팩토링
+- **내 역할**: UI 컴포넌트 개발, 상태관리, 코드 리팩토링  
+[🔗 GitHub Repository](https://github.com/GopediaPro/neunexus_login)
 
----
-
-## [sabangnet_API](https://github.com/GopediaPro/sabangnet_API)
-Python 기반 Sabangnet API 연동 모듈.
-
-- **주요 기능**: 상품 데이터 연동, API 호출 처리, 데이터 파싱
-- **내 역할**: API 호출 모듈 작성, 예외 처리 로직 추가
-
----
-
-## [neunexus-client](https://github.com/GopediaPro/neunexus-client)
-TypeScript 기반 클라이언트 애플리케이션.
-
-- **주요 기능**: 메인 UI 페이지 구현, API 데이터 표시
-- **내 역할**: 페이지 구조 설계, UI 최적화
-
-
----
-
-## 💻 기여 코드 예시
-
-### 📌 neunexus_login
+### 💻 기여 코드 예시
 ```bash
 # 개발 서버 실행
 npm run dev
@@ -40,21 +22,41 @@ npm run build
 
 # Storybook 실행
 npm run storybook
+```
 
+---
 
-### 📌 neunexus-client (UI 컴포넌트 예시)
+## neunexus-client
+TypeScript 기반 클라이언트 애플리케이션.
 
+- **주요 기능**: 메인 UI 페이지 구현, API 데이터 표시
+- **내 역할**: 페이지 구조 설계, UI 최적화  
+[🔗 GitHub Repository](https://github.com/GopediaPro/neunexus-client)
+
+### 💻 기여 코드 예시
+```typescript
 // LoginButton.tsx
 import React from "react";
 
 export const LoginButton = () => {
   return <button>로그인</button>;
 };
+```
 
-### 📌 sabangnet_API (API 요청 예시)
+---
 
+## sabangnet_API
+Python 기반 Sabangnet API 연동 모듈.
+
+- **주요 기능**: 상품 데이터 연동, API 호출 처리, 데이터 파싱
+- **내 역할**: API 호출 모듈 작성, 예외 처리 로직 추가  
+[🔗 GitHub Repository](https://github.com/GopediaPro/sabangnet_API)
+
+### 💻 기여 코드 예시
+```python
 # 상품 데이터 조회 예시
 import requests
 
 response = requests.get("https://api.sabangnet.co.kr/products")
 print(response.json())
+```

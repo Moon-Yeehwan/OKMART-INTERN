@@ -42,6 +42,8 @@ npm run build
 npm run storybook
 
 
+### 📌 neunexus-client (UI 컴포넌트 예시)
+
 // LoginButton.tsx
 import React from "react";
 
@@ -49,10 +51,10 @@ export const LoginButton = () => {
   return <button>로그인</button>;
 };
 
+### 📌 sabangnet_API (API 요청 예시)
+
 # 상품 데이터 조회 예시
 import requests
 
 response = requests.get("https://api.sabangnet.co.kr/products")
 print(response.json())
-
-

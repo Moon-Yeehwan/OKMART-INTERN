@@ -7,7 +7,10 @@ TypeScript 기반 로그인 UI 구현 프로젝트.
 
 - **주요 기능**: 로그인 페이지 UI 설계, API 연동, 인증 로직 처리
 - **내 역할**: UI 컴포넌트 개발, 상태관리, 코드 리팩토링  
-[🔗 GitHub Repository](https://github.com/GopediaPro/neunexus_login)
+[🔗 GitHub Repository](https://github.com/GopediaPro/neunexus_login)  
+[📂 코드 보기 - components](./neunexus_login_components)  
+[📂 코드 보기 - pages](./neunexus_login_pages)  
+[📂 코드 보기 - stories](./neunexus_login_stories)
 
 ### 💻 기여 코드 예시
 ```bash
@@ -31,7 +34,10 @@ TypeScript 기반 클라이언트 애플리케이션.
 
 - **주요 기능**: 메인 UI 페이지 구현, API 데이터 표시
 - **내 역할**: 페이지 구조 설계, UI 최적화  
-[🔗 GitHub Repository](https://github.com/GopediaPro/neunexus-client)
+[🔗 GitHub Repository](https://github.com/GopediaPro/neunexus-client)  
+[📂 코드 보기 - components](./neunexus_client_components)  
+[📂 코드 보기 - pages](./neunexus_client_pages)  
+[📂 코드 보기 - stories](./neunexus_client_stories)
 
 ### 💻 기여 코드 예시
 ```typescript
@@ -50,7 +56,11 @@ Python 기반 Sabangnet API 연동 모듈.
 
 - **주요 기능**: 상품 데이터 연동, API 호출 처리, 데이터 파싱
 - **내 역할**: API 호출 모듈 작성, 예외 처리 로직 추가  
-[🔗 GitHub Repository](https://github.com/GopediaPro/sabangnet_API)
+[🔗 GitHub Repository](https://github.com/GopediaPro/sabangnet_API)  
+[📂 코드 보기 - controller](./sabangnet_api_controller)  
+[📂 코드 보기 - models](./sabangnet_api_models)  
+[📂 코드 보기 - repository](./sabangnet_api_repository)  
+[📂 코드 보기 - utils](./sabangnet_api_utils)
 
 ### 💻 기여 코드 예시
 ```python

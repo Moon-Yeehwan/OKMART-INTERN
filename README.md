@@ -41,8 +41,6 @@ TypeScript 기반 클라이언트 애플리케이션.
 [📂 코드 보기 - pages](./neunexus_client_pages)  
 [📂 코드 보기 - stories](./neunexus_client_stories)
 
-![neunexus_client 화면](./images/neunexus_client.png)
-
 ### 💻 기여 코드 예시
 ```typescript
 // LoginButton.tsx
